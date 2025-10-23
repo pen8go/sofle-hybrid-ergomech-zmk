@@ -62,7 +62,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - A
+  - Ctl+R
   - B
   - C
   - D
@@ -192,8 +192,8 @@ layers:
   - ''
   - ''
   - ''
-  - A
+  - ENTER
   - B
-  - C
+  - UP
   - D
-  - E
+  - DOWN
